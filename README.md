@@ -5,6 +5,7 @@ Weston's numbers are down. Tax income is down. Business income is down. Business
 
 I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
 
+      TEST TEST
 
 # Roadmap
 
