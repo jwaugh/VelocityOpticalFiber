@@ -54,12 +54,12 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 ###v0.9 FINAL BETA TESTING
 
-###v1.0.0 FULL IMPLEMENTATION
-   - Expected before 2018
+###v1.0.0 1Gbps availability network-wide
+   - Expected before December 2018
    - Reach at least 500 endpoints
    - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
    - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
 
 ###v2.1 100Gbps availability network-wide
-   - Expected before 2025
+   - Expected before December 2025
    - Reach of at least 1000 endpoints
