@@ -63,23 +63,23 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 ###v0.0.1
 
-###v0.1
-- Expected before April 201
+##v0.1
+- Expected before February 2017
 
-###v0.8 Weston's Intranet-only Blockchain goes live
+##v0.8 Weston's Intranet-only Blockchain goes live
 - Expected before April 2017
 - Intranet only so that nobody with outside hashing power can mess with the system as easily
       - Sure this will fail, but it's a start and could be revamped on this roadmap before it even comes into reality.
 
-###v0.9 FINAL BETA TESTING 
+##v0.9 FINAL BETA TESTING 
 
-###v1.0.0 1Gbps availability network-wide
+#v1.0.0 1Gbps availability network-wide
 - Expected before December 2018
 - Reach at least 500 endpoints
 - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
 - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
 
-###v1.1 Weston's Blockchain goes live
+##v1.1 Weston's Blockchain goes live
 - Expected before April 2019
 - Authentication
 - Currency
@@ -89,6 +89,6 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 
 
-###v2.1 100Gbps availability network-wide
+#v2.1 100Gbps availability network-wide
 - Expected before December 2025
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
