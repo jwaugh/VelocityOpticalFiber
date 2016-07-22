@@ -13,6 +13,6 @@ v0.0.0.0.1  THE IDEA
 
 
 
-v1.0.0 Working app 
+v1.0.0 Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
 
 - connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
