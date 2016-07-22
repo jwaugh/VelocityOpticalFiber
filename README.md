@@ -1,4 +1,4 @@
-# WestonCityofLights
+# WestonCityofLight
 Internet so fast it can be compared to catching lightning in a bottle!
 
 Weston's numbers are down. Tax income is down. Business income is down. Businesses can't keep their doors open. Nobody is coming to this city anymore, but are leaving all the time. In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. We need something to bring back the numbers and make people want to live and work here. In this high speed internet and maximum bandwidth possible kind of world we live in, fiber optics being owned by the municipality only makes sense as it's a very good way to defray other costs of running a city by having a little bit of revenue coming in from another project.
@@ -42,12 +42,12 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 ###v0.0.0.6 MARKETING
    - Domains
-      - .online - Landing page for a 100 mile overview of the project
-      - .builders - People active in helping build the community we are working on.
+      - cityoflight.online - Landing page for a 100 mile overview of the project
+      - cityoflight.builders - People active in helping build the community we are working on.
          - Lewis County First would be great for this.
-      - .academy - A gigabit virtual school. 
+      - cityoflight.academy - A gigabit virtual school. 
          - Learn with 4k video streaming to other places with high enough bandwidth.
-      - .management - A support portal for Weston/LC to use to manage any complaints/suggestions/etc
+      - cityoflight.management - A support portal for Weston/LC to use to manage any complaints/suggestions/etc
    - Market the dark fiber to ISPs and mobile data carriers like AT&T, Verizon Wireless, US Cellular, Sprint, etc.
    - Get a few people onboard with the idea to agree to help beta test it
    - See what kind of business fiber attracts to pitch to the council
