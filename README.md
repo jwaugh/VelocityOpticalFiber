@@ -310,7 +310,10 @@ INFRACTIONS: Whenever any person commits an infraction and no specific penalty i
 ###v1.1 Weston's Blockchain goes live
 - Expected before April 2019
 - Authentication
-- Currency 
+- Currency
+- Voting
+- Banking 
+- Taxes
 
 
 
