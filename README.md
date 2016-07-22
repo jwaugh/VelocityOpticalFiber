@@ -17,9 +17,9 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 ###v0.0.0.2 THE WHITE PAPER
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
-   - Should include the statute within it which can be found in 0.0.0.2.1
+   - Should include the ordinance within it which can be found in 0.0.0.2.1
 
-###v0.0.0.2.1 STATUTE DRAFT FOLLOWS
+###v0.0.0.2.1 ORDINANCE DRAFT FOLLOWS
 
 CHAPTER <INSERT HERE>
 
