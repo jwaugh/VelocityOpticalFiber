@@ -41,6 +41,13 @@ I understand the city is not allowed to own anything, at least before homerule, 
       - Maps showing how the fiber would run
 
 ###v0.0.0.6 MARKETING
+   - Domains
+      - .online - Landing page for a 100 mile overview of the project
+      - .builders - People active in helping build the community we are working on.
+         - Lewis County First would be great for this.
+      - .academy - A gigabit virtual school. 
+         - Learn with 4k video streaming to other places with high enough bandwidth.
+      - .management - A support portal for Weston/LC to use to manage any complaints/suggestions/etc
    - Market the dark fiber to ISPs and mobile data carriers like AT&T, Verizon Wireless, US Cellular, Sprint, etc.
    - Get a few people onboard with the idea to agree to help beta test it
    - See what kind of business fiber attracts to pitch to the council
