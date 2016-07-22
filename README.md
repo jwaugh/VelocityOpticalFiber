@@ -9,19 +9,19 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 # Roadmap
 
-###v0.0.0.1  THE IDEA
+####v0.0.0.1  THE IDEA
    - Start figuring out how to lay fiber from the city building to the Lewis-Gilmer 911 center and senior center.
    - Study Ammon's Model for FTTH and how they are doing it with zero debt.
       - Trying to do this with zero debt, may prove silly when we could look for grants or even loan opportunities
         at very low rates.
 
-###v0.0.0.2 THE WHITE PAPER
+####v0.0.0.2 THE WHITE PAPER
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
    - Should include the ordinance within it which can be found in 0.0.0.2.1
       v0.0.0.2.1 ORDINANCE DRAFT PROPOSAL LINK FOLLOWS
             https://github.com/jwaugh/WestonCityofLights/blob/master/ordinanceproposal
 
-###v0.0.0.3 FIND INTEREST
+####v0.0.0.3 FIND INTEREST
    - Meet up with public works directors for county
       - Chat with Weston and Lewis County directors to see if we can work together on this initiative and cooperative.
    - Speak with LC EDA director
@@ -29,7 +29,7 @@ I understand the city is not allowed to own anything, at least before homerule, 
    - Work with WVU Jackson's Mill
    - Speak with big wireless providers about leasing dark fiber to the emergency tower for wireless data
 
-###v0.0.0.4 COME UP WITH A TOTAL COMPLETED PROJECT COST PROJECTION
+####v0.0.0.4 COME UP WITH A TOTAL COMPLETED PROJECT COST PROJECTION
    - Labor estimates
       - <<<ESTIMATED PRICE HERE>>>
    - Material estimates
@@ -39,7 +39,7 @@ I understand the city is not allowed to own anything, at least before homerule, 
          - Equipment to trench both grass/gravel AND concrete
             - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
 
-###v0.0.0.5  PITCHING TO WESTON CITY COUNCIL
+####v0.0.0.5  PITCHING TO WESTON CITY COUNCIL
 - Expected September 2016
 - Present a draft of the possible fiber statute
       - Borrow Ammon's version available freely on the web with alterations where necessary
@@ -49,7 +49,7 @@ I understand the city is not allowed to own anything, at least before homerule, 
       - Material estimates
       - Maps showing how the fiber would run
 
-###v0.0.0.6 MARKETING
+####v0.0.0.6 MARKETING
 - Domains
       - cityoflight.online - Landing page for a 100 mile overview of the project
       - cityoflight.builders - People active in helping build the community we are working on.
@@ -73,7 +73,7 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 ##v0.9 FINAL BETA TESTING 
 
-#v1.0.0 1Gbps availability network-wide
+#v1 1Gbps availability network-wide
 - Expected before December 2018
 - Reach at least 500 endpoints
 - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
@@ -87,8 +87,6 @@ I understand the city is not allowed to own anything, at least before homerule, 
 - Banking 
 - Taxes
 
-
-
-#v2.1 100Gbps availability network-wide
+#v2 100Gbps availability network-wide
 - Expected before December 2019
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
