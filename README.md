@@ -20,6 +20,8 @@ Internet so fast it can be compared to catching lightning in a bottle!
    - Chat with Weston and Lewis County directors to see if we can work together on this initiative and cooperative.
 
 ###v0.0.0.5  PITCHING TO WESTON CITY COUNCIL
+   - Present a draft of the possible fiber statute
+      - Borrow Ammon's version available freely on the web with alterations where necessary
    - Keynote presentation to explain everything in detail
       - Where the funding comes from
       - Labor estimates
