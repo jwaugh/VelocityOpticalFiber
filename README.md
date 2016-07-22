@@ -30,6 +30,10 @@ I understand the city is not allowed to own anything, at least before homerule, 
       - <<<ESTIMATED PRICE HERE>>>
    - Material estimates
       - <<<ESTIMATED PRICE HERE>>>
+         - Cabling cost
+         - Tools
+         - Equipment to trench both grass/gravel AND concrete
+            - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
 
 ###v0.0.0.5  PITCHING TO WESTON CITY COUNCIL
    - Present a draft of the possible fiber statute
