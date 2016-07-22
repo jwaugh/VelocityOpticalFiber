@@ -25,37 +25,22 @@ CHAPTER <INSERT HERE>
 
 FIBER OPTIC SYSTEM 
 
-8-9-1: Purpose 
-
-8-9-2: Definitions 
-
-8-9-3: Ownership, Control and Management 
-
-8-9-4: No Obligation to Serve 
-
-8-9-5: Applicability 
-
-8-9-6: Transfer of Rights Prohibited 
-
-8-9-7: Billings 
-
-8-9-8: Limitations 
-
-8-9-9: Rights of Way 
-
-8-9-10: Liability for Interruptions 
-
-8-9-11: Shut-Down for Repairs 
-
-8-9-12: Interference with the Fiber Optic System 
-
-8-9-13: Protection of the Customer’s Equipment 
-
-8-9-14: Tampering with Fiber Optic System Prohibited 
-
-8-9-15: Theft of Access or Use 
-
-8-9-16: Violations and Penalties 
+8-9-1: Purpose
+8-9-2: Definitions
+8-9-3: Ownership, Control and Management
+8-9-4: No Obligation to Serve
+8-9-5: Applicability
+8-9-6: Transfer of Rights Prohibited
+8-9-7: Billings
+8-9-8: Limitations
+8-9-9: Rights of Way
+8-9-10: Liability for Interruptions
+8-9-11: Shut-Down for Repairs
+8-9-12: Interference with the Fiber Optic System
+8-9-13: Protection of the Customer’s Equipment
+8-9-14: Tampering with Fiber Optic System Prohibited
+8-9-15: Theft of Access or Use
+8-9-16: Violations and Penalties
 
 8-9-1: 
 PURPOSE: The purpose of this Chapter is to establish a City owned Fiber Optic 
