@@ -90,5 +90,5 @@ I understand the city is not allowed to own anything, at least before homerule, 
 
 
 #v2.1 100Gbps availability network-wide
-- Expected before December 2025
+- Expected before December 2019
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
