@@ -9,3 +9,10 @@ v0.0.0.0.1  THE IDEA
               - Study Ammon's Model for FTTH and how they are doing it with zero debt.
                 - Trying to do this with zero debt, may prove silly when we could look for grants or even loan opportunities
                   at very low rates.
+
+
+
+
+v1.0.0 Working app 
+
+- connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
