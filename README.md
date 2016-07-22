@@ -268,33 +268,48 @@ INFRACTIONS: Whenever any person commits an infraction and no specific penalty i
             - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
 
 ###v0.0.0.5  PITCHING TO WESTON CITY COUNCIL
-   - Present a draft of the possible fiber statute
-      - Borrow Ammon's version available freely on the web with alterations where necessary
-   - Keynote presentation to explain everything in detail
-      - Where the funding comes from
-      - Labor estimates
-      - Material estimates
-      - Maps showing how the fiber would run
+      - Expected September 2016
+      - Present a draft of the possible fiber statute
+            - Borrow Ammon's version available freely on the web with alterations where necessary
+      - Keynote presentation to explain everything in detail
+            - Where the funding comes from
+            - Labor estimates
+            - Material estimates
+            - Maps showing how the fiber would run
 
 ###v0.0.0.6 MARKETING
-   - Domains
-      - cityoflight.online - Landing page for a 100 mile overview of the project
-      - cityoflight.builders - People active in helping build the community we are working on.
-         - Lewis County First would be great for this.
-      - cityoflight.academy - A gigabit virtual school. 
-         - Learn with 4k video streaming to other places with high enough bandwidth.
-      - cityoflight.management - A support portal for Weston/LC to use to manage any complaints/suggestions/etc
-   - Market the dark fiber to ISPs and mobile data carriers like AT&T, Verizon Wireless, US Cellular, Sprint, etc.
-   - Get a few people onboard with the idea to agree to help beta test it
-   - See what kind of business fiber attracts to pitch to the council
+      - Domains
+            - cityoflight.online - Landing page for a 100 mile overview of the project
+            - cityoflight.builders - People active in helping build the community we are working on.
+            - Lewis County First would be great for this.
+            - cityoflight.academy - A gigabit virtual school. 
+            - Learn with 4k video streaming to other places with high enough bandwidth.
+            - cityoflight.management - A support portal for Weston/LC to use to manage any complaints/suggestions/etc
+      - Market the dark fiber to ISPs and mobile data carriers like AT&T, Verizon Wireless, US Cellular, Sprint, etc.
+      - Get a few people onboard with the idea to agree to help beta test it
+      -  See what kind of business fiber attracts to pitch to the council
 
-###v0.9 FINAL BETA TESTING
+###v0.0.1
+
+###v0.1
+
+###v0.8 Weston's Blockchain goes live
+      - Expected before April 201
+
+###v0.9 FINAL BETA TESTING 
 
 ###v1.0.0 1Gbps availability network-wide
-   - Expected before December 2018
-   - Reach at least 500 endpoints
-   - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
-   - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
+      - Expected before December 2018
+      - Reach at least 500 endpoints
+      - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
+      - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
+
+###v1.1 Weston's Blockchain goes live
+      - Expected before April 2019
+      - Authentication
+      - Currency 
+
+
 
 ###v2.1 100Gbps availability network-wide
    - Expected before December 2025
