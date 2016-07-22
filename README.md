@@ -292,25 +292,28 @@ INFRACTIONS: Whenever any person commits an infraction and no specific penalty i
 ###v0.0.1
 
 ###v0.1
+- Expected before April 201
 
-###v0.8 Weston's Blockchain goes live
-      - Expected before April 201
+###v0.8 Weston's Intranet-only Blockchain goes live
+- Expected before April 2017
+- Intranet only so that nobody with outside hashing power can mess with the system as easily
+      - Sure this will fail, but it's a start and could be revamped on this roadmap before it even comes into reality.
 
 ###v0.9 FINAL BETA TESTING 
 
 ###v1.0.0 1Gbps availability network-wide
-      - Expected before December 2018
-      - Reach at least 500 endpoints
-      - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
-      - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
+- Expected before December 2018
+- Reach at least 500 endpoints
+- Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
+- Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
 
 ###v1.1 Weston's Blockchain goes live
-      - Expected before April 2019
-      - Authentication
-      - Currency 
+- Expected before April 2019
+- Authentication
+- Currency 
 
 
 
 ###v2.1 100Gbps availability network-wide
-   - Expected before December 2025
-   - Reach of at least 1000 endpoints
+- Expected before December 2025
+- Reach of at least 1000 endpoints
