@@ -14,7 +14,9 @@ Internet so fast it can be compared to catching lightning in a bottle!
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
 
 ###v0.0.0.3 MARKETING
+   - Market the dark fiber to ISPs and mobile data carriers like AT&T, Verizon Wireless, US Cellular, Sprint, etc.
    - Get a few people onboard with the idea to agree to help beta test it
+   - See what kind of business fiber attracts to pitch to the council
 
 ###v0.0.0.4 MEET UP WITH PUBLIC WORKS DIRECTORS
    - Chat with Weston and Lewis County directors to see if we can work together on this initiative and cooperative.
