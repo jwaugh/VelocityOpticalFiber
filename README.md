@@ -29,12 +29,13 @@ I understand the city is not allowed to own anything, at least before homerule, 
    - Work with WVU Jackson's Mill
    - Speak with big wireless providers about leasing dark fiber to the emergency tower for wireless data
 
-####v0.0.0.4 COME UP WITH A TOTAL COMPLETED PROJECT COST PROJECTION
+####v0.0.0.4 COME UP WITH A TOTAL COMPLETED "CITY BUILDING link to Board of Education and RLBMS" COST PROJECTION
    - Labor estimates
       - <<<ESTIMATED PRICE HERE>>>
    - Material estimates
       - <<<ESTIMATED PRICE HERE>>>
          - Cabling cost
+            - 5,000 feet of estimated cable needed 
          - Tools
          - Equipment to trench both grass/gravel AND concrete
             - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
