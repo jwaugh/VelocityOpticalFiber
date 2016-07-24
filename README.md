@@ -5,13 +5,15 @@ Weston's numbers are down. Tax income is down. Business income is down. Business
 
 I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
 
-      
+Creation of an optical fiber network beginning with linking city/county/state/US departments the moving on to adding medical infrastructure, law firms with courthouses and homes with a direct connection to a hospital and service anytime, anywhere. Imagine doctors with specialties coming from different geographic areas to look at your charts and diagnose you with telemedicine. :) Imagine your sick child staying home from school and watching his class via a virtual reality app created by the school to allow sick children or children who must be absent to still attend their classes?! :) AMAZING! Imagine connecting to anybody else within the network with a TEN GIGABIT connection! Literally 100 people watching 4K movies all day every day couldn't max that pipe out! TEN GIGABITS!!!!!
+
 
 # Roadmap
 
 ####v0.0.0.1  THE IDEA
-   - Start figuring out how to lay fiber from the city building to the Lewis-Gilmer 911 center and senior center.
-   - Study Ammon's Model for FTTH and how they are doing it with zero debt.
+- 
+- Start figuring out how to lay fiber from the city building to the Lewis-Gilmer 911 center and senior center.
+- Study Ammon's Model for FTTH and how they are doing it with zero debt.
       - Trying to do this with zero debt, may prove silly when we could look for grants or even loan opportunities
         at very low rates.
 - Figure out how to allow access to physical fiber, but still have control.
