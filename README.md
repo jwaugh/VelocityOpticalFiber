@@ -14,6 +14,9 @@ I understand the city is not allowed to own anything, at least before homerule, 
    - Study Ammon's Model for FTTH and how they are doing it with zero debt.
       - Trying to do this with zero debt, may prove silly when we could look for grants or even loan opportunities
         at very low rates.
+- Figure out how to allow access to physical fiber, but still have control.
+      - For example, giving emergency traffic priority over other traffic.
+            - What piece of equipment gives us this capability? Routers with vLans and such? 
 
 ####v0.0.0.2 THE WHITE PAPER
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
@@ -29,13 +32,12 @@ I understand the city is not allowed to own anything, at least before homerule, 
    - Work with WVU Jackson's Mill
    - Speak with big wireless providers about leasing dark fiber to the emergency tower for wireless data
 
-####v0.0.0.4 COME UP WITH A TOTAL COMPLETED "CITY BUILDING link to Board of Education and RLBMS" COST PROJECTION
+####v0.0.0.4 COME UP WITH A TOTAL COMPLETED PROJECT COST PROJECTION
    - Labor estimates
       - <<<ESTIMATED PRICE HERE>>>
    - Material estimates
       - <<<ESTIMATED PRICE HERE>>>
          - Cabling cost
-            - 5,000 feet of estimated cable needed 
          - Tools
          - Equipment to trench both grass/gravel AND concrete
             - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
