@@ -19,7 +19,6 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 - Figure out how to allow access to physical fiber, but still have control.
       - For example, giving emergency traffic priority over other traffic.
             - What piece of equipment gives us this capability? Routers with vLans and such? 
-            - Learn about software 
 
 ####v0.0.0.2 THE WHITE PAPER
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
