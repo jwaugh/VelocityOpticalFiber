@@ -12,9 +12,11 @@ Businesses can't keep their doors open.
 <br />In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
 <br />We need something to bring back the numbers and make people want to live and work here. 
 
-<strong>That's where the last item on this list, "internet speed", comes into play. It's the worst possible kind of statistic to have "down" in this world we live in. <br />The solution is fiber optic infrastructure being owned by the City of Weston. It makes a lot of financial sense, as it's a very good way to invest into something that will bring money back in and defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.</strong>
+<strong>That's where the last item on this list, "internet speed", comes into play. It's the worst possible kind of statistic to have "down" in this world we live in. 
+
+<br />The solution is fiber optic infrastructure being owned by the City of Weston. It makes a lot of financial sense, as it's a very good way to invest into something that will bring money back in and defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.</strong>
  
-  I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
+ I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
 
  Creation of an optical fiber network beginning with linking city/county/state/US departments the moving on to adding medical infrastructure, law firms with courthouses and homes with a direct connection to a hospital and service anytime, anywhere. Imagine doctors with specialties coming from different geographic areas to look at your charts and diagnose you with telemedicine. :) Imagine your sick child staying home from school and watching his class via a virtual reality app created by the school to allow sick children or children who must be absent to still attend their classes?! :) AMAZING! Imagine connecting to anybody else within the network with a TEN GIGABIT connection! Literally 100 people watching 4K movies all day every day couldn't max that pipe out! TEN GIGABITS!!!!!
 
