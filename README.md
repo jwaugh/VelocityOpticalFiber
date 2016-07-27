@@ -16,6 +16,7 @@ Did we mention there is no limit to the amount of bandwidth you share amongst th
 		
 ###"L.C. is L.I.T.!"
 
+After running over 10 miles of fiber optic cables to move data at the speed of light, the first fiber path has been lit. This is a HUGE milestone in the project's goal of interconnecting every address in the city and county to this system.
 
 ##ABSTRACT
 Weston's numbers are down. Tax income is down. Business income is down. Businesses can't keep their doors open. Nobody is coming to this city looking to settle down, yet people are leaving to look for opportunity elsewhere. In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. We need something to bring back the numbers and make people want to live and work here. In this high speed internet and maximum bandwidth possible kind of world we live in, fiber optics being owned by the municipality only makes sense as it's a very good way to defray other costs of running a city by having a little bit of revenue coming in from another project.
