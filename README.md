@@ -11,7 +11,8 @@ Businesses can't keep their doors open.
 <br />Nobody is coming to this city looking to settle down, yet people are leaving to look for opportunity elsewhere. 
 <br />In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
 <br />We need something to bring back the numbers and make people want to live and work here. 
-<br /> That's where the last item on this list, internet speed in Lewis County comes into play. It's the worst possible kind of stat to have "down" in this world we live in. The solution is fiber optic infrastructure being owned by the municipality, Weston. It makes a lot of financial sense, as it's a very good way to defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.
+
+<em>That's where the last item on this list, internet speed in Lewis County comes into play. It's the worst possible kind of stat to have "down" in this world we live in. The solution is fiber optic infrastructure being owned by the municipality, Weston. It makes a lot of financial sense, as it's a very good way to defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.</em>
  
   I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
 
