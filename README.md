@@ -36,8 +36,11 @@ Creation of an optical fiber network beginning with linking city/county/state/US
         at very low rates.
 - Figure out how to allow access to physical fiber, but still have control.
       - For example, giving emergency traffic priority over other traffic.
-      	- What piece of equipment gives us this capability? Routers with vLans and such? 
-
+      	- What piece of equipment gives us this capability? 
+      		- Routers with vLans?
+- Figure out what kind of fiber & equipment is needed on both "server" and "client" sides to have 100Gbps pushed through the fiber.
+	- Preferably 144 strand+ (2048 @ 100Gbps = 204,800GBps (200Tbps TOTAL available bandwidth))
+		
 ####v0.0.0.2 THE WHITE PAPER
    - Create a white paper to explain what we are trying to do, what this can do, and how everyone benefits
    - Should include the ordinance within it which can be found in 0.0.0.2.1
@@ -122,3 +125,6 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 - Expected before December 2019
 - 10GbE or 100GbE available via proper routing and switching equipment
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
+	- 100Gbps times 3500 endpoints divided by 1024Gbps per Tbps = 341.797 Tbps (42TBps aggregate)
+	- 100Gbps times 13000 endpoints divided by 1024Gbps per Tbps = 1,269.531 Tbps (158.691TBps aggregate)
+		- 1 TBps aggregate routers would require 160 to be purchased $ 8,000/router ($1.28 million)
