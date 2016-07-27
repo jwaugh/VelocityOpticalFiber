@@ -6,6 +6,7 @@
 -	Tax revenue for the city to keep it's infrastructure running is down. 
 -	Business income is down. 
 -	Internet speed is down.
+
 Businesses can't keep their doors open. 
 Nobody is coming to this city looking to settle down, yet people are leaving to look for opportunity elsewhere. 
 In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
