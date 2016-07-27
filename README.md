@@ -1,5 +1,8 @@
 # WestonCityofLight
-Internet so fast it can be compared to catching lightning in a bottle!
+
+###"Internet so fast it can be compared to catching lightning in a bottle!"
+
+Weston city council has voted! It turns out the city will be connecting it's departments and then allowing others to tap into that fiber footprint for a set fee of $4,500. This is available to anybody that sits along the fiber pathway. The way it will work is the amount can be paid upfront with cheaper monthly costs associated with the service, or they can spread out payments over a TWENTY YEAR period @ 3% interest by paying the city more per month.
 
 ###"Lewis County should be called "Lightning County"
 	
