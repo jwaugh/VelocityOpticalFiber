@@ -28,7 +28,9 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 - Devise an actual title and some slogans for this thing
 	- Slogans coming along well as can be seen at the top of the homepage at github.
 	- Need more time coming up with a good name, and also need to bounce several names off of other people before settling on anything.
-- Start figuring out how to lay fiber from the city building to the Lewis-Gilmer 911 center and senior center.
+- Start figuring out how to lay fiber from the city building to 
+	- Lewis-Gilmer 911 center, EMS and senior center.
+	- Board of Education, Robert L Bland Middle School, St Pat's School
 - Study Ammon's Model for FTTH and how they are doing it with zero debt.
       - Trying to do this with zero debt, may prove silly when we could look for grants or even loan opportunities
         at very low rates.
