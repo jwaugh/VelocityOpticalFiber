@@ -11,9 +11,10 @@ People are finding that they can connect amongst each other at the full 1 Gbps f
 
 Did we mention there is no limit to the amount of bandwidth you share amongst the fiber footprint and never will be?! That's right! Anybody inside this footprint has total 100% access to the fiber that runs from their home (the edge or FTTH) to the fiber-lit cabinet at the corner included in their payment of their piece of fiber.
 		
-"L.C. is L.I.T.!"
+####"L.C. is L.I.T.!"
 
-ABSTRACT
+
+##ABSTRACT
 Weston's numbers are down. Tax income is down. Business income is down. Businesses can't keep their doors open. Nobody is coming to this city looking to settle down, yet people are leaving to look for opportunity elsewhere. In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. We need something to bring back the numbers and make people want to live and work here. In this high speed internet and maximum bandwidth possible kind of world we live in, fiber optics being owned by the municipality only makes sense as it's a very good way to defray other costs of running a city by having a little bit of revenue coming in from another project.
 
 I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
