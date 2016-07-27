@@ -1,7 +1,17 @@
 # WestonCityofLight
 
 ##ABSTRACT
-Weston's numbers are down. Tax income is down. Business income is down. Businesses can't keep their doors open. Nobody is coming to this city looking to settle down, yet people are leaving to look for opportunity elsewhere. In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. We need something to bring back the numbers and make people want to live and work here. In this high speed internet and maximum bandwidth possible kind of world we live in, fiber optics being owned by the municipality only makes sense as it's a very good way to defray other costs of running a city by having a little bit of revenue coming in from another project.
+###What's down?
+-	Weston's numbers, for the most part, are down. 
+-	Tax revenue for the city to keep it's infrastructure running is down. 
+-	Business income is down. 
+-	Internet speed is down.
+Businesses can't keep their doors open. 
+Nobody is coming to this city looking to settle down, yet people are leaving to look for opportunity elsewhere. 
+In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
+We need something to bring back the numbers and make people want to live and work here. 
+
+That's where the last item on this list, internet speed in Lewis County comes into play. It's the worst possible kind of stat to have "down" in this world we live in. The solution is fiber optic infrastructure being owned by the municipality, Weston. It makes a lot of financial sense, as it's a very good way to defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.
 
 I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
 
