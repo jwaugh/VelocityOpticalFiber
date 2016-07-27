@@ -14,7 +14,7 @@ Businesses can't keep their doors open.
 
 <strong>That's where the last item on this list, "internet speed", comes into play. It's the worst possible kind of statistic to have "down" in this world we live in. 
 
-<br />The solution is fiber optic infrastructure being owned by the City of Weston. It makes a lot of financial sense, as it's a very good way to invest into something that will bring money back in and defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.</strong>
+The solution is fiber optic infrastructure being owned by the City of Weston. It makes a lot of financial sense, as it's a very good way to invest into something that will bring money back in and defray other costs of running a city by having a little bit of guaranteed revenue coming in from another project.</strong>
  
  I understand the city is not allowed to own anything, at least before homerule, now that we have that to look forward to in next July/August, I think this is the perfect time to start discussions about what we can do in a year when this new rule goes into effect. We need to be prepared and have a course of action planned.
 
