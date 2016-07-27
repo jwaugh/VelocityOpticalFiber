@@ -14,7 +14,7 @@ People are finding that they can connect amongst each other at the full 1 Gbps f
 
 Did we mention there is no limit to the amount of bandwidth you share amongst the fiber footprint and never will be?! That's right! Anybody inside this footprint has total 100% access to the fiber that runs from their home (the edge or FTTH) to the fiber-lit cabinet at the corner included in their payment of their piece of fiber.
 		
-####"L.C. is L.I.T.!"
+###"L.C. is L.I.T.!"
 
 
 ##ABSTRACT
