@@ -107,7 +107,7 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 - Banking 
 - Taxes
 
-#v2 100Gbps availability network-wide
+#v2.0 100Gbps availability network-wide
 - Expected before December 2019
 - 10GbE or 100GbE available via proper routing and switching equipment
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
