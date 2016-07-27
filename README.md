@@ -86,13 +86,16 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 
 ###v0.0.1
 
+
 ##v0.1
 - Expected before February 2017
 
-##v0.8 Weston's Intranet-only Blockchain goes live
+##v0.8 10 ENDPOINT milestone
 - Expected before April 2017
-- Intranet only so that nobody with outside hashing power can mess with the system as easily
-      - Sure this will fail, but it's a start and could be revamped on this roadmap before it even comes into reality.
+- Includes fiber laid to at least 10 entities
+- Ignite jabber server w/link to download OTR plugins and instructions to configure
+	- This will allow Jabber server to be accessed anywhere via the fiber footprint.
+- Weston's intranet-only Blockchain goes live
 
 ##v0.9 FINAL BETA TESTING 
 
@@ -102,8 +105,9 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 - Flawlessly working real-life application of a municipal-county coop fiber & wireless network. 
 - Citizens connected seamlessly with local, county, state and federal governments over a fiber network owned by the citizens of Lewis County and West Virginia.
 
-##v1.1 Weston's Blockchain goes live
+##v1.5 Weston's Blockchain goes live
 - Expected before April 2019
+- Intranet only so that nobody with outside hashing power can mess with the system as easily
 - Authentication
 - Currency
 - Voting
@@ -112,4 +116,5 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 
 #v2 100Gbps availability network-wide
 - Expected before December 2019
+- 10GbE or 100GbE available via proper routing and switching equipment
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
