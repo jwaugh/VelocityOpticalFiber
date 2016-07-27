@@ -108,9 +108,13 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 ##v1.5 Weston's Blockchain goes live
 - Expected before April 2019
 - Intranet only so that nobody with outside hashing power can mess with the system as easily
+	- Another solution might be to implement a blockchain that mines most of the coins in the first six months or less of genesis being mined so that there could be some major community events held around the release of mining to the public.
 - Authentication
+	- Could use the blockchain to authenticate people and allow them access to the network.
 - Currency
+	- Could use the blockchain to have accounts of measure to know where everybody stands in the community.
 - Voting
+	- Voting could be made totally transparent via blockchain technology (https://www.youtube.com/watch?v=R53pDz4vp1s)
 - Banking 
 - Taxes
 
