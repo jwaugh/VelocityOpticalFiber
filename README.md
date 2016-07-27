@@ -12,7 +12,7 @@ Creation of an optical fiber network beginning with linking city/county/state/US
 
 ####v0.0.0.1 - THE IDEA
 - Devise an actual title and some slogans for this thing
-	- Slogans coming along well as can be seen in the Public Relations folder at github.
+	- Slogans coming along well as can be seen in the Public Relations (https://github.com/jwaugh/WestonCityofLight/tree/master/Public%20Relations) folder at github.
 	- Need more time coming up with a good name, and also need to bounce several names off of other people before settling on anything.
 - Start figuring out how to lay fiber from the city building to 
 	- Lewis-Gilmer 911 center, EMS and senior center.
