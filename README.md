@@ -144,4 +144,5 @@ The solution is fiber optic infrastructure being owned by the City of Weston. It
 - Reach of at least 3500 endpoints (21.875% of Lewis County; or 87.5% of Weston)
 	- 100Gbps times 3500 endpoints divided by 1024Gbps per Tbps = 341.797 Tbps (42TBps aggregate)
 	- 100Gbps times 13000 endpoints divided by 1024Gbps per Tbps = 1,269.531 Tbps (158.691TBps aggregate)
-		- 1 TBps aggregate routers would require 160 to be purchased $ 8,000/router ($1.28 million)
+		- 1 TBps aggregate routers would require 160 to be purchased @ estimated $8,000/router comes to $1.28 million
+			- 82 Ports/each
