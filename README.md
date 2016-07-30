@@ -1,7 +1,8 @@
 # WestonCityofLight
 ![Fibermap for Level 3 Networks]
 (https://github.com/jwaugh/WestonCityofLight/blob/master/Level%203%20Fibermap.png)
-
+West Virginia is basically 100% fiberless and wondering why we aren't moving forward in the world. 
+We are living life in the slowlane and we are going to continually be left behind until someone makes a change.
 
 ##ABSTRACT
 ###What's down?
