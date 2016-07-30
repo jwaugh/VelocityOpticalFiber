@@ -1,4 +1,7 @@
 # WestonCityofLight
+![Fibermap for Level 3 Networks]
+(https://github.com/jwaugh/WestonCityofLight/blob/master/Level%203%20Fibermap.png)
+
 
 ##ABSTRACT
 ###What's down?
