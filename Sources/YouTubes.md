@@ -8,6 +8,11 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Former fiber-opponent mayor utilizes pre-built city-only fiber ring to bring 2 Gbps connections to the community at eda suggestion.
 t-8:15 - Great info on the benefits of Fiber!
 
+###TELUS Fibre Municipal Testimonial
+####https://www.youtube.com/watch?v=dl_Fu5xEgq8
+
+###TELUS Fibre – A Beam of Light (REALLY LIKE THIS COMMERCIAL)
+####https://www.youtube.com/watch?v=CRmohmrYyp8
 
 ###Ammon's Model: The Virtual End of Cable Monopolies
 ####http://youtu.be/tSQVvFY4lPI
@@ -17,3 +22,6 @@ t-8:15 - Great info on the benefits of Fiber!
 
 ###Why Chattanooga built a Municipal Broadband Network
 ####https://www.youtube.com/watch?v=b8YHxRvOWlw
+
+###Tennessee really LOVES their socialist internet
+####https://www.youtube.com/watch?v=iMTOpTpIwMM
