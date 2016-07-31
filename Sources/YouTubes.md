@@ -14,3 +14,6 @@ t-8:15 - Great info on the benefits of Fiber!
 
 ###Baltimore's Fiber Project
 ####http://youtu.be/x7NYTBHx10s
+
+###Why Chattanooga built a Municipal Broadband Network
+####https://www.youtube.com/watch?v=b8YHxRvOWlw
