@@ -32,4 +32,6 @@ $40,656,000 to run 12 fibers 1000 miles comes out to $40,656/mile or $7.70 per f
 
 $113,836,000 to run 1250 miles of cable over 25 years comes out to 
 
-$113,836,000/20/12/40 shows we need 11,900 people paying $40/month to pay this project off within 20 years.
+Equation: $113,836,000/25/12/45 shows 
+
+We need 9,035 people paying $35/month to pay this project off within 30 years.
