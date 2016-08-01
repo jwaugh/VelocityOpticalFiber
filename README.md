@@ -18,10 +18,10 @@ We have come a long way from that luddite kind of thinking, I hope. I think it's
 ![Meme]
 (https://github.com/jwaugh/WestonCityofLight/blob/master/13879388_495396070651166_8930859175330605264_n.jpg)
 
-Businesses can't keep their doors open. 
-<br />Nobody is coming to this city looking to settle down, but people are most certainly leaving to look for opportunity elsewhere. 
-<br />In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
-<br />We need something to bring back the numbers and make people want to live and work here. 
+- Businesses can't keep their doors open. 
+- Nobody is coming to this city looking to settle down, but people are most certainly leaving to look for opportunity elsewhere. 
+- In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
+- We need something to bring back the numbers and make people want to live and work here. 
 
 <strong>That's where the last item on this list, "internet speed", comes into play. It's the worst possible kind of statistic to have "down" in this world we live in. 
 
