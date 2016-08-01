@@ -17,7 +17,8 @@ We have come a long way from that luddite kind of thinking, I hope. I think it's
 
 
 ![Meme]
-<center>(https://github.com/jwaugh/WestonCityofLight/blob/master/13879388_495396070651166_8930859175330605264_n.jpg)</center>
+(https://github.com/jwaugh/WestonCityofLight/blob/master/13879388_495396070651166_8930859175330605264_n.jpg)
+
 
 - Businesses can't keep their doors open. 
 - Nobody is coming to this city looking to settle down, but people are most certainly leaving to look for opportunity elsewhere. 
