@@ -8,20 +8,18 @@ West Virginia is basically 100% fiberless and people sit around and wonder why w
 We have come a long way from that luddite kind of thinking, I hope. I think it's time we embrace change BEFORE everybody else for once. Fiber isn't going away, and I'm not even EARLY in my proposal to lay this infrastructure now. This has already been successfully rolled out by many municipalities, Ammon, Idaho being the best example I've seen to date. The video can be found in the sources folder. {ADD LINK TO IT HERE INSTEAD}
 
 ##ABSTRACT
-###What's down?
--	Weston's numbers, for the most part, are down. 
--	Tax revenue for the city to keep it's infrastructure running is down. 
--	Business income is down. 
--	Internet speed is down.
--	Ambition to make change happen is down.
-
-![Meme]
-(https://github.com/jwaugh/WestonCityofLight/blob/master/13879388_495396070651166_8930859175330605264_n.jpg)
-
 - Businesses can't keep their doors open. 
 - Nobody is coming to this city looking to settle down, but people are most certainly leaving to look for opportunity elsewhere. 
 - In the past 50 years, we have lost 50% of our population. We are down from 8,000 to 4,000 in our county seat of Weston. 
 - We need something to bring back the numbers and make people want to live and work here. 
+-	Weston's numbers, for the most part, are down. 
+-	Tax revenue for the city to keep it's infrastructure running is down. 
+-	Business income is down. 
+-	Ambition to make change happen is down.
+-	Internet speed is down.
+
+![Meme]
+(https://github.com/jwaugh/WestonCityofLight/blob/master/13879388_495396070651166_8930859175330605264_n.jpg)
 
 <strong>That's where the last item on this list, "internet speed", comes into play. It's the worst possible kind of statistic to have "down" in this world we live in. 
 
