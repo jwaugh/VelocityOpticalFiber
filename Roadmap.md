@@ -2,7 +2,7 @@
 
 ####v0.0.0.1 - THE IDEA
 - Devise an actual title and some slogans for this thing
-	- OPTION 1: "VELOCITY"
+	- OPTION 1: "<strong>VELOCITY</strong>"
 		- Value added to the community.
 		- Education benefit itself is amazing.
 		- Lower cost internet to the end-user
