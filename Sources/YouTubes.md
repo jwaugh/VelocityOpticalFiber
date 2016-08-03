@@ -26,5 +26,10 @@ t-8:15 - Great info on the benefits of Fiber!
 ###Tennessee really LOVES their socialist internet
 ####https://www.youtube.com/watch?v=iMTOpTpIwMM
 
+<hr>
+##Answers to some questions brought about by T.Q.:
 ###What's the Point of a "Gig" Anyway?!
 ####https://www.youtube.com/watch?v=GEzYtoTbBfE
+
+###What Is a Smart Rural Community?
+####https://www.youtube.com/watch?v=AIyGADLi-CY
