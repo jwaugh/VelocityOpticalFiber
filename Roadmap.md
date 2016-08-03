@@ -116,3 +116,4 @@
 	- 100Gbps times 13000 endpoints divided by 1024Gbps per Tbps = 1,269.531 Tbps (158.691TBps aggregate)
 		- 1 TBps aggregate routers would require 160 to be purchased @ estimated $8,000/router comes to $1.28 million
 			- 82 Ports/each
+	- Link that came up in some research I was doing: https://muninetworks.org/content/tullahoma%E2%80%99s-lightube-connects-3500th-customer
