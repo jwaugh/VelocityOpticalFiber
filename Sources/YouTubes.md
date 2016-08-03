@@ -28,8 +28,23 @@ t-8:15 - Great info on the benefits of Fiber!
 
 <hr>
 ##Answers to some questions brought about by T.Q.:
+
 ###What's the Point of a "Gig" Anyway?!
 ####https://www.youtube.com/watch?v=GEzYtoTbBfE
 
+###Why Do You Need a Gig?
+####https://www.youtube.com/watch?v=CSC9oKe0X3I
+
 ###What Is a Smart Rural Community?
 ####https://www.youtube.com/watch?v=AIyGADLi-CY
+
+###Dawn of the Gigabit Internet Age (If you build it, they will come)
+####https://www.youtube.com/watch?v=CkuvKbDYWwQ
+
+##Financing
+
+###What are Municipal Bonds? | Fidelity
+####https://www.youtube.com/watch?v=q_rezPQreZ4
+
+###Investopedia Video: What Is A Municipal Bond?
+####https://www.youtube.com/watch?v=owh2e_M6DNU

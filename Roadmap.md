@@ -53,6 +53,9 @@
          - Equipment to trench both grass/gravel AND concrete
             - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
 
+#####Revenue bonds 
+	- would be a great route to go although it probably lowers the chances of investors?
+
 ####v0.0.0.5 - PITCHING TO WESTON CITY COUNCIL
 - Expected September 2016
 - Present a draft of the possible fiber statute
