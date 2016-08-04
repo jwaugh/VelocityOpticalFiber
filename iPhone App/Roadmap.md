@@ -25,12 +25,12 @@ Create an application that ties every aspect of local government together and cr
 - Has at least 3 working windows that provide use to the community
 	- Window 1: Community Calendar
 		- Allow certain entities access to update calendar through a backend
-			1- Convention and Visitor's Bureau
-			2- Economic Development Authority
-			3- Lewis County First
-			4- The Depot Farmers Market
-			5- Lewis County Park
-			6- Stonewall Resort
+			- 1. Convention and Visitor's Bureau
+			- 2. Economic Development Authority
+			- 3. Lewis County First
+			- 4. The Depot Farmers Market
+			- 5. Lewis County Park
+			- 6.  Stonewall Resort
 			
 	- Window 2: News
 		- Allow Weston Democrat to use this space to bring us the latest news.
