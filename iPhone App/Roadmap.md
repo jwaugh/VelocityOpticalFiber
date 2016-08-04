@@ -12,15 +12,29 @@ Create an application that ties every aspect of local government together and cr
 ####v0.0.0.4
 
 ####v0.0.0.5
-		Expected before September 2016 
+		Expected Early September 2016 
 
 ####v0.0.0.6
+		Expected Mid-September 2016 
 
 ###v0.0.1 - 
-
+		Expected Late September 2016 
 ##v0.1 - 
-		Expected before October 2016
+		Expected before (or early) October 2016
 - Working application downloaded through testflight invites
+- Has at least 3 working windows that provide use to the community
+	- Window 1: Community Calendar
+		- Allow certain entities access to update calendar through a backend
+			1- Convention and Visitor's Bureau
+			2- Economic Development Authority
+			3- Lewis County First
+			4- The Depot Farmers Market
+			5- Lewis County Park
+			6- Stonewall Resort
+			
+	- Window 2: News
+		- Allow Weston Democrat to use this space to bring us the latest news.
+	- Window 3: 
 
 ##v0.2 - 
 		Expected before 
