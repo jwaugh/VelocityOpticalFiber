@@ -20,7 +20,7 @@ Create an application that ties every aspect of local government together and cr
 
 ##v0.1 - 
 		Expected before October 2016
-- Working application downloaded through testflight
+- Working application downloaded through testflight invites
 
 ##v0.2 - 
 		Expected before 
