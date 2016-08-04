@@ -31,7 +31,10 @@ Create an application that ties every aspect of local government together and cr
 			- 4. The Depot Farmers Market
 			- 5. Lewis County Park
 			- 6.  Stonewall Resort
-			
+			- 7. 
+			- 8. 
+			- 9. 
+			- 10.
 	- Window 2: News
 		- Allow Weston Democrat to use this space to bring us the latest news.
 	- Window 3: 
