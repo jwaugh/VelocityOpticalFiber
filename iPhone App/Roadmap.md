@@ -23,7 +23,7 @@ Create an application that ties every aspect of local government together and cr
 		Expected before (or early) October 2016
 - Working application downloaded through testflight invites
 - Has at least 3 working windows that provide use to the community
-	- Window 1: Community Calendar
+	- Window 1: Consolidated Community Calendar
 		- Allow certain entities access to update calendar through a backend
 			- 1. Convention and Visitor's Bureau
 			- 2. Economic Development Authority

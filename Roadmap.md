@@ -36,7 +36,8 @@
             https://github.com/jwaugh/WestonCityofLights/blob/master/ordinanceproposal
 
 ####v0.0.0.3 - FIND INTEREST
-   - Meet up with public works directors for county
+	- Distribute survey to community to see what they think about the internet, how many devices they connect, and what kind of content they consume.
+	- Meet up with public works directors for county
       - Chat with Weston and Lewis County directors to see if we can work together on this initiative and cooperative.
    - Speak with LC EDA director
    - Speak to LC Convention and Visitor's Bureau

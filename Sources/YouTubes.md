@@ -26,6 +26,21 @@ t-8:15 - Great info on the benefits of Fiber!
 ###Tennessee really LOVES their socialist internet
 ####https://www.youtube.com/watch?v=iMTOpTpIwMM
 
+###Gig City Sandy: Home of the $60 Gig
+####https://www.youtube.com/watch?v=fBztjr2uCzg
+
+City Manager, check out 4:54 for some great reasons to have the fiber network owned by the citizens instead of corporations!
+
+5:30-5:45: $7.5Million Revenue bond mentioned by Joe Knapp
+6:04: Talks about not using taxpayer dollars; looked at is as paying for it through revenue through use
+6:20: "The take rate that we are seeing is EXCEDING what we actually modeled for, so we are pretty comfortable that this is going to be a financially viable project and that we'll be able to cover the debt services cost over these next 20 years."
+6:34: To break even, SandyNet needed 35% of the community to subscribe; As of June 2015 nearly 60% have already subscribed or are on a waiting list
+6:51: "The fiber for us, is not the endgame, it's just now that we can start the race."
+7:05: "It's like I tell my team at SandyNet, we're developing something here that wi
+
+###Sandy, Oregon FTTH Case Study
+####https://www.youtube.com/watch?v=w59kR_I_a24
+
 <hr>
 ##Answers to some questions brought about by T.Q.:
 
