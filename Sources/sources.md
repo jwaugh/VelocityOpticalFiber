@@ -32,3 +32,5 @@
 	10. The system would be operated by the state Water Development Authority. “All fiber is, is 
 	pipes – pipes with some cords in them.” The state WDA has bonding authority.
 	
+###Is Comcast marking up its internet service by nearly 2000%?!, "ISPs claim our data usage is going up and they must react. In reality, their costs are falling and this is a dodge, an effort to get us to pay more for services that were overpriced from day one.”	
+####https://np.reddit.com/r/technology/comments/3sonfk/is_comcast_marking_up_its_internet_service_by/cwz896w
