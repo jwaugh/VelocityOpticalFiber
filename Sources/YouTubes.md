@@ -41,6 +41,12 @@ City Manager, check out 4:54 for some great reasons to have the fiber network ow
 ###Sandy, Oregon FTTH Case Study
 ####https://www.youtube.com/watch?v=w59kR_I_a24
 
+##Why update the internet infrastructure if it works now?
+
+If you don't upgrade your infrastructure, you would have to do this to your cabling to support what's coming with what video is doing alone (see: 4k, 8k, HEVC):
+###2 Petabytes data transfer Cat 4 cable smoking
+####https://youtu.be/Ov6hG12Z_TI?t=146
+
 <hr>
 ##Answers to some questions brought about by T.Q.:
 
