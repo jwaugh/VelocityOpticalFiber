@@ -1,10 +1,10 @@
 # WestonCityofLight
 
 ![Velocity teaser image]
-(https://github.com/jwaugh/VelocityFiberOptic/Resources/images/Velocity-teaser-1.jpg)
+(https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/Velocity-teaser-1.jpg)
 
 ![Fibermap for Level 3 Networks]
-(https://github.com/jwaugh/WestonCityofLight/blob/master/Level%203%20Fibermap.png)
+(https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/Level%203%20Fibermap.png)
 ######(SOURCE:http://www.level3.com/~/media/files/maps/en-network-services-level-3-network-map.ashx)
 
 West Virginia is basically 100% fiberless and people sit around and wonder why we aren't moving forward in any areas of life, and are instead, moving backwards in many ways. If we keep living life in the slowlane we are going to continually be left behind until someone makes a change. I think this change can be found by being connected to the rest of the country at the quickest possible speeds with room for upgrading later. I'm talking about a 100 GIGABIT PER SECOND network, here. When this thing is done, it will enable every single house in Weston the opportunity to have information delivered at the speed of light directly into their home. The biggest advantage of this is not having to hear children, spouses, or guests complain about how they can't do what they want to do. The fact is, we have moved into a digital lifestyle, and the ones complaining about it, are the people that remember before the computer came out and lived their entire childhood/teenage/early adult years without cell phones even being seen or a thing.
@@ -21,7 +21,7 @@ We have come a long way from that luddite kind of thinking, I hope. I think it's
 
 
 ![Meme]
-(https://github.com/jwaugh/VelocityFiberOptic/Resources/images/13879388_495396070651166_8930859175330605264_n.jpg)
+(https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/13879388_495396070651166_8930859175330605264_n.jpg)
 
 
 - Businesses can't keep their doors open. 
