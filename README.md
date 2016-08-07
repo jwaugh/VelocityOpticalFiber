@@ -1,7 +1,7 @@
 # WestonCityofLight
 
 ![Velocity teaser image]
-(https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/Velocity-teaser-1.jpg)
+(https://github.com/jwaugh/VelocityFiberOptic/Resources/images/Velocity-teaser-1.jpg)
 
 ![Fibermap for Level 3 Networks]
 (https://github.com/jwaugh/WestonCityofLight/blob/master/Level%203%20Fibermap.png)
@@ -21,7 +21,7 @@ We have come a long way from that luddite kind of thinking, I hope. I think it's
 
 
 ![Meme]
-(https://github.com/jwaugh/VelocityFiberOptic/blob/master/13879388_495396070651166_8930859175330605264_n.jpg)
+(https://github.com/jwaugh/VelocityFiberOptic/Resources/images/13879388_495396070651166_8930859175330605264_n.jpg)
 
 
 - Businesses can't keep their doors open. 
