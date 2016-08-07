@@ -54,8 +54,11 @@
          - Equipment to trench both grass/gravel AND concrete
             - Find rental costs for this from DOSS Enterprises, possibly (according to Chae) 
 
-#####Revenue bonds 
+#####Revenue bonds
 	- would be a great route to go although it probably lowers the chances of investors?
+	- pays for equipment rentals
+	- pays for man hours for professionals to run the equipment
+	
 
 ####v0.0.0.5 - PITCHING TO WESTON CITY COUNCIL
 - Expected September 2016
