@@ -1,3 +1,12 @@
+###Networking at the Speed of Light: Electric Lightwave
+####https://www.youtube.com/watch?v=aSbkWB3EWuY
+	- Public, private & hybrid LANs
+	- Dual core & dual aggregation routers
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=aSbkWB3EWuY
+" target="_blank"><img src="http://img.youtube.com/vi/aSbkWB3EWuY/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Community Connections LaFayette, Louisiana
 ####http://youtu.be/1njwx1uP2oc
 
@@ -10,6 +19,10 @@ t-8:15 - Great info on the benefits of Fiber!
 
 ###TELUS Fibre Municipal Testimonial
 ####https://www.youtube.com/watch?v=dl_Fu5xEgq8
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=dl_Fu5xEgq8
+" target="_blank"><img src="http://img.youtube.com/vi/dl_Fu5xEgq8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###TELUS Fibre – A Beam of Light (REALLY LIKE THIS COMMERCIAL)
 ####https://www.youtube.com/watch?v=CRmohmrYyp8
