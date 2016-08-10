@@ -112,8 +112,8 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ###What Is a Smart Rural Community?
 ####https://www.youtube.com/watch?v=AIyGADLi-CY
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=AIyGADLi
-" target="_blank"><img src="http://img.youtube.com/vi/AIyGADLi/0.jpg" 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AIyGADLi-CY
+" target="_blank"><img src="http://img.youtube.com/vi/AIyGADLi-CY/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###Dawn of the Gigabit Internet Age (If you build it, they will come)
