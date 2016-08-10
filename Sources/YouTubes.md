@@ -98,19 +98,43 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ###What's the Point of a "Gig" Anyway?!
 ####https://www.youtube.com/watch?v=GEzYtoTbBfE
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=GEzYtoTbBfE
+" target="_blank"><img src="http://img.youtube.com/vi/GEzYtoTbBfE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Why Do You Need a Gig?
 ####https://www.youtube.com/watch?v=CSC9oKe0X3I
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CSC9oKe0X3I
+" target="_blank"><img src="http://img.youtube.com/vi/CSC9oKe0X3I/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###What Is a Smart Rural Community?
 ####https://www.youtube.com/watch?v=AIyGADLi-CY
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=AIyGADLi
+" target="_blank"><img src="http://img.youtube.com/vi/AIyGADLi/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Dawn of the Gigabit Internet Age (If you build it, they will come)
 ####https://www.youtube.com/watch?v=CkuvKbDYWwQ
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CkuvKbDYWwQ
+" target="_blank"><img src="http://img.youtube.com/vi/CkuvKbDYWwQ/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ##Financing
 
 ###What are Municipal Bonds? | Fidelity
 ####https://www.youtube.com/watch?v=q_rezPQreZ4
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=q_rezPQreZ4
+" target="_blank"><img src="http://img.youtube.com/vi/q_rezPQreZ4/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Investopedia Video: What Is A Municipal Bond?
 ####https://www.youtube.com/watch?v=owh2e_M6DNU
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=owh2e_M6DNU
+" target="_blank"><img src="http://img.youtube.com/vi/owh2e_M6DNU/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
