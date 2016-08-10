@@ -27,20 +27,44 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 ###TELUS Fibre – A Beam of Light (REALLY LIKE THIS COMMERCIAL)
 ####https://www.youtube.com/watch?v=CRmohmrYyp8
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=CRmohmrYyp8
+" target="_blank"><img src="http://img.youtube.com/vi/CRmohmrYyp8/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Ammon's Model: The Virtual End of Cable Monopolies
 ####http://youtu.be/tSQVvFY4lPI
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=tSQVvFY4lPI
+" target="_blank"><img src="http://img.youtube.com/vi/tSQVvFY4lPI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###Baltimore's Fiber Project
 ####http://youtu.be/x7NYTBHx10s
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=x7NYTBHx10s
+" target="_blank"><img src="http://img.youtube.com/vi/x7NYTBHx10s/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Why Chattanooga built a Municipal Broadband Network
 ####https://www.youtube.com/watch?v=b8YHxRvOWlw
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=b8YHxRvOWlw
+" target="_blank"><img src="http://img.youtube.com/vi/b8YHxRvOWlw/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ###Tennessee really LOVES their socialist internet
 ####https://www.youtube.com/watch?v=iMTOpTpIwMM
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=iMTOpTpIwMM
+" target="_blank"><img src="http://img.youtube.com/vi/iMTOpTpIwMM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ###Gig City Sandy: Home of the $60 Gig
 ####https://www.youtube.com/watch?v=fBztjr2uCzg
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=fBztjr2uCzg
+" target="_blank"><img src="http://img.youtube.com/vi/fBztjr2uCzg/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 City Manager, check out 4:54 for some great reasons to have the fiber network owned by the citizens instead of corporations!
 
@@ -54,11 +78,19 @@ City Manager, check out 4:54 for some great reasons to have the fiber network ow
 ###Sandy, Oregon FTTH Case Study
 ####https://www.youtube.com/watch?v=w59kR_I_a24
 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=w59kR_I_a24
+" target="_blank"><img src="http://img.youtube.com/vi/w59kR_I_a24/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
 ##Why update the internet infrastructure if it works now?
 
 If you don't upgrade your infrastructure, you would have to do this to your cabling to support what's coming with what video is doing alone (see: 4k, 8k, HEVC):
 ###2 Petabytes data transfer Cat 4 cable smoking
 ####https://youtu.be/Ov6hG12Z_TI?t=146
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=Ov6hG12Z_TI
+" target="_blank"><img src="http://img.youtube.com/vi/Ov6hG12Z_TI/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 <hr>
 ##Answers to some questions brought about by T.Q.:
