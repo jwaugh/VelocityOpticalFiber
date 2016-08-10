@@ -138,3 +138,15 @@ alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=owh2e_M6DNU
 " target="_blank"><img src="http://img.youtube.com/vi/owh2e_M6DNU/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+
+## Installation
+
+
+###Loose tube fiber preparation for fusion splicing and installing a breakout kit.
+####https://www.youtube.com/watch?v=vyZhWrn8FHE
+
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=vyZhWrn8FHE
+" target="_blank"><img src="http://img.youtube.com/vi/vyZhWrn8FHE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
