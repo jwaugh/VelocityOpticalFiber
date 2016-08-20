@@ -1,4 +1,4 @@
-# WestonCityofLight
+# Velocity Optical Fiber
 
 ![Velocity teaser image]
 (https://github.com/jwaugh/VelocityFiberOptic/blob/master/Resources/images/Velocity-teaser-1.jpg)
